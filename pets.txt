@@ -10,6 +10,7 @@ Frog
 
 Names
 =====
+Mario
 Fluffy
 Scaly
 Ginger
@@ -17,3 +18,5 @@ Hoppy
 Harry
 Frederick
 Bouncy
+Joe
+Gaia
